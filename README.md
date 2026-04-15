@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucy
-- 🌱 I’m currently learning rust and godot
-- 💞️ I’m looking to collaborate on Linux Mint
+- 🌱 I’m currently working on Rest APIs
+- 💞️ I’m looking to work on React and Angular projects
